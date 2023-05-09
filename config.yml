@@ -1,0 +1,25 @@
+theme: "PaperMod"
+title: "Code::Path"
+publishDir: "docs"
+params:
+    profileMode:
+        enabled: true
+        title: "Code::Path" 
+        subtitle: "Milpitas High School"
+        imageUrl: "cpclogo.png" # optional
+        imageTitle: "CP Club Logo" # optional
+        imageWidth: 200 # custom size
+        imageHeight: 200 # custom size
+        buttons:
+          - name: Officers
+            url: "/officers"
+          - name: Resources
+            url: "/officers"
+
+    socialIcons: # optional
+          - name: "instagram"
+            url: "youtube.com"
+          - name: "twitter"
+            url: "youtube.com"
+          - name: "github"
+            url: "youtube.com"
